@@ -118,3 +118,5 @@ function App({ tasksData }) {
 }
 
 export default App;
+
+// The Main App.js file
