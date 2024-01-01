@@ -123,5 +123,3 @@ export default function Todo({
     <li className="todo">{isEditing ? editingTemplate : viewTemplate}</li>
   );
 }
-
-// The main To-do component
